@@ -1,0 +1,453 @@
+Arryll Natividad Antolin successfully added to the contacts
+Date and Time: Monday, 24 December, 2018 04:02:26 AM +08
+**************************************************
+Adding Failed, Arryll Natividad Antolin already exist
+Date and Time: Monday, 24 December, 2018 04:02:56 AM +08
+**************************************************
+Deletion Failed, VP Arellano doesn't exist
+Date and Time: Monday, 24 December, 2018 04:03:24 AM +08
+**************************************************
+Adding Batch File Failed, duplicate contents in a
+Date and Time: Monday, 24 December, 2018 04:03:49 AM +08
+**************************************************
+Successfully added contents of b to contacts
+Date and Time: Monday, 24 December, 2018 04:04:22 AM +08
+**************************************************
+Adding Failed, Arryll Natividad Antolin already exist
+Date and Time: Friday, 18 January, 2019 10:59:00 PM PST
+**************************************************
+Rimuru Slime Tempest successfully added to the contacts
+Date and Time: Friday, 18 January, 2019 11:38:13 PM PST
+**************************************************
+Adding Batch File Failed, a.txt doesn't exists
+Date and Time: Saturday, 19 January, 2019 12:29:38 AM PST
+**************************************************
+Successfully added contents of b to contacts
+Date and Time: Saturday, 19 January, 2019 02:15:16 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in a
+Date and Time: Saturday, 19 January, 2019 02:16:52 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Saturday, 19 January, 2019 02:17:01 AM PST
+**************************************************
+Successfully added contents of b to contacts
+Date and Time: Saturday, 19 January, 2019 02:17:01 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Saturday, 19 January, 2019 02:21:49 AM PST
+**************************************************
+Successfully added contents of b to contacts
+Date and Time: Saturday, 19 January, 2019 02:21:49 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Saturday, 19 January, 2019 02:23:41 AM PST
+**************************************************
+Akane SSS Shinjou successfully added to the contacts
+Date and Time: Saturday, 19 January, 2019 02:25:50 AM PST
+**************************************************
+Deletion Failed, Emwyra Natividad Antolin doesn't exist
+Date and Time: Saturday, 19 January, 2019 02:35:09 AM PST
+**************************************************
+Emwyra Natividad Antolin successfully added to the contacts
+Date and Time: Saturday, 19 January, 2019 02:38:51 AM PST
+**************************************************
+Adding Failed, Emwyra Natividad Antolin already exist
+Date and Time: Saturday, 19 January, 2019 02:44:44 AM PST
+**************************************************
+Deletion Failed, Emw Natividad Antolin doesn't exist
+Date and Time: Saturday, 19 January, 2019 02:46:03 AM PST
+**************************************************
+Emwyra Natividad Antolin has been deleted from the contacts
+Date and Time: Saturday, 19 January, 2019 02:46:20 AM PST
+**************************************************
+Arryll Natividad Antolin successfully added to the contacts
+Date and Time: Saturday, 19 January, 2019 02:48:23 AM PST
+**************************************************
+Emwyra Natividad Antolin successfully added to the contacts
+Date and Time: Saturday, 19 January, 2019 02:52:18 AM PST
+**************************************************
+Deletion Failed, Emwyra Natividad A doesn't exist
+Date and Time: Saturday, 19 January, 2019 02:53:01 AM PST
+**************************************************
+Emwyra Natividad Antolin has been deleted from the contacts
+Date and Time: Saturday, 19 January, 2019 02:53:14 AM PST
+**************************************************
+Arryll Natividad Antolin successfully added to the contacts
+Date and Time: Saturday, 19 January, 2019 02:57:25 AM PST
+**************************************************
+Emwyra Natividad Antolin successfully added to the contacts
+Date and Time: Saturday, 19 January, 2019 02:57:55 AM PST
+**************************************************
+Deletion Failed, Emwyra Natividad A doesn't exist
+Date and Time: Saturday, 19 January, 2019 02:58:26 AM PST
+**************************************************
+Emwyra Natividad Antolin has been deleted from the contacts
+Date and Time: Saturday, 19 January, 2019 02:58:34 AM PST
+**************************************************
+Edit Failed, Arryll Mori Antolin doesn't exist
+Date and Time: Saturday, 19 January, 2019 11:44:15 PM PST
+**************************************************
+Successfully edited the gender of contact Arryll Natividad Antolin
+Date and Time: Saturday, 19 January, 2019 11:44:29 PM PST
+**************************************************
+Edit Failed, Invalid input values
+Date and Time: Saturday, 19 January, 2019 11:59:54 PM PST
+**************************************************
+Edit Failed, Invalid menu choice
+Date and Time: Sunday, 20 January, 2019 12:00:29 AM PST
+**************************************************
+Successfully edited the gender of contact Arryll Natividad Antolin
+Date and Time: Sunday, 20 January, 2019 12:01:26 AM PST
+**************************************************
+Emwyra Natividad Antolin successfully added to the contacts
+Date and Time: Sunday, 20 January, 2019 12:12:58 AM PST
+**************************************************
+Edit Failed, Emwyr Natividad Antolin doesn't exist
+Date and Time: Sunday, 20 January, 2019 12:14:14 AM PST
+**************************************************
+Edit Failed, a a a doesn't exist
+Date and Time: Sunday, 20 January, 2019 12:14:50 AM PST
+**************************************************
+Deletion Failed, Emwyra Natividad Anto doesn't exist
+Date and Time: Sunday, 20 January, 2019 12:15:09 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in a
+Date and Time: Sunday, 20 January, 2019 12:17:23 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 12:18:00 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 12:20:11 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 12:30:30 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 12:35:19 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 01:06:58 AM PST
+**************************************************
+Successfully added contents of c to contacts
+Date and Time: Sunday, 20 January, 2019 01:07:03 AM PST
+**************************************************
+Emwyra Natividad Antolin has been deleted from the contacts
+Date and Time: Sunday, 20 January, 2019 01:07:08 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 01:23:58 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 01:27:46 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 01:30:31 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 01:31:04 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 01:31:16 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 01:32:13 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:15:47 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:17:24 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:27:05 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:32:06 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:36:10 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:37:34 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:46:46 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:47:34 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 20 January, 2019 02:48:40 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in a
+Date and Time: Sunday, 20 January, 2019 02:49:40 AM PST
+**************************************************
+Successfully added contents of b to contacts
+Date and Time: Sunday, 20 January, 2019 02:50:02 AM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:06:58 AM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:08:46 AM PST
+**************************************************
+Edit Failed, Arryll a a doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:17:58 AM PST
+**************************************************
+Edit Failed, Arryll Natividad a doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:31:41 AM PST
+**************************************************
+Edit Failed, 123 123 123 doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:31:59 AM PST
+**************************************************
+Danielle Nicole Olegario Jawod successfully added to the contacts
+Date and Time: Sunday, 20 January, 2019 10:32:48 AM PST
+**************************************************
+Edit Failed, Danielle Nicole Olegario Jawod doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:35:22 AM PST
+**************************************************
+Edit Failed, Danielle Nicole Olegario Jawod doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:39:07 AM PST
+**************************************************
+Edit Failed, Danielle Nicole Olegario Jawod doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:43:10 AM PST
+**************************************************
+Successfully edited the first name of contact Danielle Nicole Olegario Jawod
+Date and Time: Sunday, 20 January, 2019 10:47:48 AM PST
+**************************************************
+Successfully edited the first name of contact Arryll Natividad Antolin
+Date and Time: Sunday, 20 January, 2019 10:51:16 AM PST
+**************************************************
+Deletion Failed, Dane aa Jawod doesn't exist
+Date and Time: Sunday, 20 January, 2019 10:53:08 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Sunday, 20 January, 2019 10:54:18 AM PST
+**************************************************
+Edit Failed, Arryll Natividad Antolin doesn't exist
+Date and Time: Sunday, 20 January, 2019 11:01:43 AM PST
+**************************************************
+A B Natividad Antolin successfully added to the contacts
+Date and Time: Sunday, 20 January, 2019 11:13:09 AM PST
+**************************************************
+Edit Failed, Arryll Natividad Antolin doesn't exist
+Date and Time: Monday, 21 January, 2019 01:01:07 AM PST
+**************************************************
+Successfully edited the first name of contact Arryll Mori Natividad Antolin
+Date and Time: Monday, 21 January, 2019 01:01:48 AM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Monday, 21 January, 2019 08:02:29 PM PST
+**************************************************
+Successfully edited the first name of contact A B Natividad Antolin
+Date and Time: Monday, 21 January, 2019 08:02:34 PM PST
+**************************************************
+Edit Failed, Invalid input values
+Date and Time: Monday, 21 January, 2019 08:08:47 PM PST
+**************************************************
+Edit Failed, Arr Nativida Antolin doesn't exist
+Date and Time: Monday, 21 January, 2019 08:09:06 PM PST
+**************************************************
+Successfully edited the gender of contact Arr Natividad Antolin
+Date and Time: Monday, 21 January, 2019 08:09:26 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Monday, 21 January, 2019 08:23:51 PM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Monday, 21 January, 2019 08:23:56 PM PST
+**************************************************
+Jhon Paul Escalona Jaspe successfully added to the contacts
+Date and Time: Monday, 21 January, 2019 08:24:29 PM PST
+**************************************************
+Arr Natividad Antolin has been deleted from the contacts
+Date and Time: Monday, 21 January, 2019 08:26:08 PM PST
+**************************************************
+River Arliss Marasigan Lontok successfully added to the contacts
+Date and Time: Monday, 21 January, 2019 08:26:37 PM PST
+**************************************************
+Jean Marc Dimaano Reyes successfully added to the contacts
+Date and Time: Monday, 21 January, 2019 08:29:18 PM PST
+**************************************************
+Kristine Yacat Coscolluela successfully added to the contacts
+Date and Time: Monday, 21 January, 2019 08:30:14 PM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Monday, 21 January, 2019 10:54:18 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Monday, 21 January, 2019 10:55:17 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Monday, 21 January, 2019 11:52:04 PM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Monday, 21 January, 2019 11:52:09 PM PST
+**************************************************
+Adding Batch File Failed, s doesn't exists
+Date and Time: Monday, 21 January, 2019 11:59:30 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Tuesday, 22 January, 2019 12:00:13 AM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Tuesday, 22 January, 2019 12:00:15 AM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Tuesday, 22 January, 2019 12:47:23 AM PST
+**************************************************
+Adding Batch File Failed, 1 doesn't exists
+Date and Time: Tuesday, 22 January, 2019 12:48:36 AM PST
+**************************************************
+Arryll Mori Natividad Antolin successfully added to the contacts
+Date and Time: Tuesday, 22 January, 2019 07:02:20 PM PST
+**************************************************
+Successfully edited the city/province of contact River Arliss Marasigan Lontok
+Date and Time: Tuesday, 22 January, 2019 07:21:22 PM PST
+**************************************************
+Edit Failed, Arryll NAtividad  doesn't exist
+Date and Time: Tuesday, 22 January, 2019 07:43:31 PM PST
+**************************************************
+Successfully edited the first name of contact Arryll Natividad Antolin
+Date and Time: Tuesday, 22 January, 2019 07:43:38 PM PST
+**************************************************
+Edit Failed, Arryl   doesn't exist
+Date and Time: Tuesday, 22 January, 2019 09:02:20 PM PST
+**************************************************
+Successfully edited the first name of contact Arryl Mori Natividad Antolin
+Date and Time: Tuesday, 22 January, 2019 09:02:32 PM PST
+**************************************************
+Successfully edited the first name of contact Emelita Natividad Antolin
+Date and Time: Tuesday, 22 January, 2019 09:40:40 PM PST
+**************************************************
+Adding Batch File Failed, / doesn't exists
+Date and Time: Tuesday, 22 January, 2019 09:46:18 PM PST
+**************************************************
+Adding Batch File Failed, invalid format
+Date and Time: Tuesday, 22 January, 2019 09:47:20 PM PST
+**************************************************
+Adding Batch File Failed, /home/unixuser doesn't exists
+Date and Time: Tuesday, 22 January, 2019 09:47:32 PM PST
+**************************************************
+Edit Failed, Arryll Natividad Antolin doesn't exist
+Date and Time: Tuesday, 22 January, 2019 09:59:26 PM PST
+**************************************************
+Edit Failed, Invalid input values
+Date and Time: Tuesday, 22 January, 2019 09:59:34 PM PST
+**************************************************
+Successfully edited the first name of contact Arryll Mori Natividad Antolin
+Date and Time: Tuesday, 22 January, 2019 10:04:26 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Tuesday, 22 January, 2019 10:08:08 PM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Tuesday, 22 January, 2019 10:08:10 PM PST
+**************************************************
+Deletion Failed, Arryl   doesn't exist
+Date and Time: Saturday, 26 January, 2019 12:54:52 PM PST
+**************************************************
+Deletion Failed, Arryl Mori Natividad Antolin doesn't exist
+Date and Time: Saturday, 26 January, 2019 12:55:05 PM PST
+**************************************************
+Deletion Failed, Arryl Mori Natividad Antolin doesn't exist
+Date and Time: Saturday, 26 January, 2019 12:55:25 PM PST
+**************************************************
+Deletion Failed, Arryll Mori Natividad Antolin doesn't exist
+Date and Time: Saturday, 26 January, 2019 12:56:10 PM PST
+**************************************************
+Arryl Mori Natividad Antolin has been deleted from the contacts
+Date and Time: Saturday, 26 January, 2019 12:59:24 PM PST
+**************************************************
+Deletion Failed, Arryl   doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:03:22 PM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:04:18 PM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:05:45 PM PST
+**************************************************
+Deletion Failed,    doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:05:54 PM PST
+**************************************************
+Arryl Mori Natividad Antolin has been deleted from the contacts
+Date and Time: Saturday, 26 January, 2019 01:05:59 PM PST
+**************************************************
+Adding Failed, Arryll Mori Natividad Antolin already exist
+Date and Time: Saturday, 26 January, 2019 01:10:03 PM PST
+**************************************************
+Rimuru Slime Tempest successfully added to the contacts
+Date and Time: Saturday, 26 January, 2019 01:10:47 PM PST
+**************************************************
+Edit Failed, Arryll   doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:12:21 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:14:10 PM PST
+**************************************************
+Edit Failed, Arryl Mori Natividad Antolin doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:15:19 PM PST
+**************************************************
+Edit Failed, Invalid menu choice
+Date and Time: Saturday, 26 January, 2019 01:15:31 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Saturday, 26 January, 2019 01:17:21 PM PST
+**************************************************
+Successfully edited the contact number of contact Arryll Mori Natividad Antolin
+Date and Time: Saturday, 26 January, 2019 01:17:26 PM PST
+**************************************************
+Adding Batch File Failed, invalid format
+Date and Time: Saturday, 26 January, 2019 01:28:47 PM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Saturday, 26 January, 2019 01:28:54 PM PST
+**************************************************
+Successfully added contents of c to contacts
+Date and Time: Saturday, 26 January, 2019 01:29:03 PM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Saturday, 26 January, 2019 01:29:16 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Saturday, 26 January, 2019 02:26:58 PM PST
+**************************************************
+Edit Failed, Invalid menu choice
+Date and Time: Saturday, 26 January, 2019 04:02:52 PM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Saturday, 26 January, 2019 09:33:00 PM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Saturday, 26 January, 2019 11:09:24 PM PST
+**************************************************
+Successfully added contents of c to contacts
+Date and Time: Saturday, 26 January, 2019 11:15:55 PM PST
+**************************************************
+Gadon Gadon Gadon has been deleted from the contacts
+Date and Time: Saturday, 26 January, 2019 11:19:02 PM PST
+**************************************************
+Adding Failed, Arryll Mori Natividad Antolin already exist
+Date and Time: Sunday, 27 January, 2019 12:34:59 AM PST
+**************************************************
+Edit Failed,    doesn't exist
+Date and Time: Sunday, 27 January, 2019 12:46:10 AM PST
+**************************************************
+Edit Failed, Invalid menu choice
+Date and Time: Sunday, 27 January, 2019 12:46:44 AM PST
+**************************************************
+Adding Batch File Failed, invalid format
+Date and Time: Sunday, 27 January, 2019 01:00:02 AM PST
+**************************************************
+Adding Batch File Failed, duplicate contents in b
+Date and Time: Sunday, 27 January, 2019 01:00:29 AM PST
+**************************************************
+Adding Batch File Failed, invalid input values
+Date and Time: Sunday, 27 January, 2019 01:01:38 AM PST
+**************************************************
+Adding Batch File Failed, z doesn't exists
+Date and Time: Sunday, 27 January, 2019 01:02:06 AM PST
+**************************************************
