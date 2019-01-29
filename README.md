@@ -13,4 +13,4 @@
 > 6. Show Logs - show success and error logs
 
 ### HOW TO RUN
-> Make sure that you are the **ROOT** because something might arise in writing and executing permissions. Then run the **main.bash** script from the terminal. Other information about how to use the software is further explained in the **User's Manual** in Others folder.
+> Make sure that you are the **ROOT** because something might arise in write and execute permissions. Then run the **main.bash** script from the terminal. Other information about how to use the software is further explained in the **User's Manual** in Others folder.
